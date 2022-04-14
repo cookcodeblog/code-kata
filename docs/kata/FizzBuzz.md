@@ -12,11 +12,11 @@ Given an integer value greater than or equal to zero.
 
 
 
-1. If the vaue is 0, return "0".
-2. If devisible by 3, return "Fizz".
-3. If devisible by 5, return "Buzz".
+1. If the value is 0, return "0".
+2. If divisible by 3, return "Fizz".
+3. If divisible by 5, return "Buzz".
 4. If divisible by 3 & 5, return "FizzBuzz".
-5. If nont of the above return the value .
+5. If none of the above return the value.
 
 
 
